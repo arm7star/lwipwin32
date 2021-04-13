@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lwipwin32">
+</Property><Property Name="Solution File" Value="E:\trunk\lwipwin32.sln">
+</Property><Property Name="User Options File" Value="E:\trunk\lwipwin32.suo">
+</Property><Property Name="Date" Value="2014年1月4日">
+</Property><Property Name="Time" Value="23:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lwipwin32.sln" Description="File successfully backed up as E:\trunk\lwipwin32.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="lwipwin32.suo" Description="File successfully backed up as E:\trunk\lwipwin32.suo.old">
+</Event><Event ErrorLevel="0" Project="lwipwin32" Source="lwipwin32.vcproj" Description="Converting project file 'E:\trunk\lwipwin32.vcproj'.">
+</Event><Event ErrorLevel="1" Project="lwipwin32" Source="lwipwin32.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="lwipwin32" Source="lwipwin32.vcproj" Description="MSB8012: $(TargetPath) ('E:\trunk\.\Debug\lwipwin32.exe') does not match the Linker's OutputFile property value '.\Debug/lwipwin32.exe' ('E:\trunk\Debug/lwipwin32.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="lwipwin32" Source="lwipwin32.vcproj" Description="MSB8012: $(TargetPath) ('E:\trunk\.\Release\lwipwin32.exe') does not match the Linker's OutputFile property value '.\Release/lwipwin32.exe' ('E:\trunk\Release/lwipwin32.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="lwipwin32" Source="lwipwin32.vcproj" Description="Done converting to new project file 'E:\trunk\lwipwin32.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="lwipwin32" Source="lwipwin32.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lwipwin32.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lwipwin32.sln" Description="Converted">
+</Event></UpgradeLog>
